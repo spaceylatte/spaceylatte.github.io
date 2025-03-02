@@ -1,0 +1,36 @@
+/* styles.css */
+
+/* Reset some default styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Header styles */
+header {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 10px 0; /* Padding for spacing */
+    text-align: center; /* Centered text */
+}
+
+/* Main content styles */
+main {
+    padding: 20px; /* Padding around the main content */
+}
+
+/* Section styles */
+section {
+    margin-bottom: 20px; /* Space between sections */
+    padding: 10px; /* Padding inside sections */
+    border: 1px solid #ccc; /* Light gray border */
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Footer styles */
+footer {
+    text-align: center; /* Centered text */
+    padding: 10px 0; /* Padding for spacing */
+    background-color: #f1f1f1; /* Light gray background */
+}
