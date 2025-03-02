@@ -137,9 +137,17 @@ img {
     height: auto;
 }
 
-.imgpos {
-    max-width: 25%;
-    height: auto;
+.email {
+    background-color: teal;
+    color: #fff8e7;
+    padding: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 @media (max-width: 600px) {
